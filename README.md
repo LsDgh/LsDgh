@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LsDgh /n
-Financial Maths and Eocnomics grad /n
-Moving towards Data Analytics /n
+- 👋 Hi, I’m @LsDgh   
+Financial Maths and Eocnomics grad  
+Moving towards Data Analytics   
 Interested improving my skills in python, SQL and R.
 - 
 
